@@ -1,0 +1,4 @@
+*.go
+./Note/*.go
+*.mod
+*.sum
